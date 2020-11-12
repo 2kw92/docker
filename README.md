@@ -22,7 +22,7 @@ This message shows that your installation appears to be working correctly
 ```     
 Который говорит нам что докер успешно установлен     
 
-Далее собираем наш образ командой   
+Далее собираем наш образ из Dockerfile, который прикрепен выши командой   
 ```docker build -t 2kw92/myimage:mynginx_v2 .```     
 проверяем наш образ:        
 ```docker images```     
